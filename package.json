@@ -1,0 +1,22 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.3.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.1",
+    "lodash": "^4.17.15",
+    "multiparty": "^4.2.1"
+  },
+  "devDependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
